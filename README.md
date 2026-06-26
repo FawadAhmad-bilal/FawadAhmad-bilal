@@ -10,8 +10,10 @@
 
 | Category | Projects |
 |---|---|
-| 🤖 **Deep Learning** | MNIST Digit Classification, Graduate Admission Prediction, Customer Churn Prediction |
+| 🤖 **Deep Learning** | MNIST Digit Classification, Graduate Admission Prediction, Customer Churn Prediction, Image Classifier CNN, Stock Price Predictor LSTM |
 | 📊 **Machine Learning** | Breast Cancer Predictor, Titanic Survival, Diamond Price Predictor, House Price Prediction |
+| 💬 **NLP & Transformers** | Sentiment Analysis App, Resume Screener using BERT , Fake News Detector *(coming soon)* |
+| 🤖 **Agentic AI** | RAG Chatbot with LangChain *(coming soon)*, AI Research Agent LangGraph *(coming soon)*, SQL Agent with Natural Language *(coming soon)* |
 | 🌐 **Web Development** | Fatima Nursing College Management System, Madina Pathology Lab Report System |
 | 📈 **Data Analysis** | Market Basket Analysis (Apriori), Clustering (K-Means, DBSCAN, Hierarchical) |
 
@@ -35,6 +37,8 @@
 
 **Deployment**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
 
 ---
