@@ -104,4 +104,3 @@ CampusX — 100 Days of Deep Learning
 <div align="center">
   <i>Open to remote internships in ML / AI / Agentic AI · Let's connect!</i>
 </div>
-
