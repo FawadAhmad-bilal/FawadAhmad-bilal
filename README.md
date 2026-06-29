@@ -62,17 +62,6 @@ I'm a 2nd-year AI student from Pakistan building real-world ML and Deep Learning
 
 ---
 
-## 📚 100 Days of Deep Learning
-
-```text
-CampusX — 100 Days of Deep Learning
-✅ Days 01–18  ANN fundamentals · backprop · vanishing/exploding gradients
-🔄 Days 19–40  CNN · RNN · LSTM · sequence models
-⏳ Days 41–60  NLP · Transformers · BERT · attention mechanism
-⏳ Days 61–100 LangChain · RAG · LangGraph · FastAPI · Docker
-```
-
----
 
 ## 📂 Project Highlights
 
@@ -92,10 +81,10 @@ CampusX — 100 Days of Deep Learning
 
 <div align="center">
 
-![Fawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FawadAhmad-bilal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FawadAhmad-bilal&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=FawadAhmad-bilal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawadAhmad-bilal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FawadAhmad-bilal&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FawadAhmad-bilal&theme=tokyonight&hide_border=true"/>
 
 </div>
 
