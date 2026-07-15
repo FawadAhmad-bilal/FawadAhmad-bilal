@@ -1,7 +1,7 @@
 # Fawad Ahmad
 **AI/ML Engineer in training — I build and deploy models, not just notebooks.**
 
-BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML roles (UK, EU, Canada, Australia)
+BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML roles 
 
 ---
 
