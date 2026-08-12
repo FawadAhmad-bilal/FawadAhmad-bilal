@@ -49,9 +49,6 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
-## GitHub Stats
-![Fawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FawadAhmad-bilal&show_icons=true&theme=default&hide_border=true)
-
 ---
 
 ## Contact
