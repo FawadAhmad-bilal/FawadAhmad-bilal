@@ -18,9 +18,9 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 | [PneumoScan](https://github.com/FawadAhmad-bilal/chest-x-ray-pneumonia-detector) | Chest X-ray pneumonia detection, CNN, deployed on Streamlit | **[Live demo](https://chest-x-ray-pneumonia-detector.streamlit.app/)** |
 | [Multi-Organ Diagnostic Suite](https://github.com/FawadAhmad-bilal/multi-organ-diagnostic-suit) | Unified diagnostic app — 5 transfer-learning models (chest X-ray via ResNet50, malaria via MobileNetV2, skin cancer via EfficientNet, brain tumor via VGG16, diabetic retinopathy via ResNet50) | **[Live demo](https://multi-organ-diagnostic-suit.streamlit.app/)** |
 | [Breast Cancer Predictor](https://github.com/FawadAhmad-bilal/breast-cancer-prediction-web-app-using-machine-learning) | Deployed web app for breast cancer prediction | **~97% accuracy** |
-| [Heart Disease Predictor](https://github.com/FawadAhmad-bilal/heart-disease-predictor-adaboost) | AdaBoost classifier, deployed web app | — |
+| [Heart Disease Predictor](https://github.com/FawadAhmad-bilal/heart-disease-predictor-adaboost) | AdaBoost classifier, deployed web app | **85** |
 | [Titanic Survival Predictor](https://github.com/FawadAhmad-bilal/titanic-survival-prediction-using-svm__streamlit) | SVM classifier, deployed web app | **82% accuracy** |
-| [Penguin Species Predictor](https://github.com/FawadAhmad-bilal/penguin-species-predictor-adaboost-ml-app) | AdaBoost classifier, deployed web app | — |
+| [Penguin Species Predictor](https://github.com/FawadAhmad-bilal/penguin-species-predictor-adaboost-ml-app) | AdaBoost classifier, deployed web app | **89** |
 | [Diamond Price Predictor](https://github.com/FawadAhmad-bilal/diamond-price-prediction-regression) | Polynomial regression | **R² = 0.859** |
 
 ---
