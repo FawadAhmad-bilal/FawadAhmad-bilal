@@ -1,6 +1,5 @@
 # Fawad Ahmad
 **AI/ML Engineer in training — I build and deploy models, not just notebooks.**
-
 BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML roles 
 
 ---
@@ -17,9 +16,12 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 | Project | What it does | Result |
 |---|---|---|
 | [PneumoScan](https://github.com/FawadAhmad-bilal/chest-xray-pneumonia-detection-cnn) | Chest X-ray pneumonia detection, CNN, deployed on Streamlit | **[Live demo](https://chest-x-ray-pneumonia-detector.streamlit.app/)** |
+| Multi-Organ Diagnostic Suite | Unified diagnostic app — 5 transfer-learning models (chest X-ray via ResNet50, malaria via MobileNetV2, skin cancer via EfficientNet, brain tumor via VGG16, diabetic retinopathy via ResNet50) | **[Live demo](https://multi-organ-diagnostic-suit.streamlit.app/)** |
 | [Breast Cancer Predictor](https://github.com/FawadAhmad-bilal/breast-cancer-prediction-adaboost) | AdaBoost classifier, deployed web app | **~97% accuracy** |
 | [Titanic Survival Predictor](https://github.com/FawadAhmad-bilal/titanic-survival-prediction-svm) | SVM classifier, deployed web app | **82% accuracy** |
 | [Diamond Price Predictor](https://github.com/FawadAhmad-bilal/diamond-price-prediction-regression) | Polynomial regression | **R² = 0.859** |
+
+---
 
 ## Proof — Deep Learning from Scratch
 
@@ -27,6 +29,8 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 |---|---|
 | [Facial Emotion Detection](https://github.com/FawadAhmad-bilal/facial-emotion-detection-cnn) | CNN built from scratch, FER2013 dataset |
 | [Backpropagation from Scratch](https://github.com/FawadAhmad-bilal/backpropagation-from-scratch) | No high-level DL framework — implemented the algorithm directly |
+
+---
 
 ## Proof — Real Client Systems
 
