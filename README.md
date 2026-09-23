@@ -17,6 +17,7 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 
 | Project | What it does | Highlights |
 |---|---|---|
+| [Research Assistant Chatbot](https://researchassistent.streamlit.app/) <!-- TODO: add repo link --> | LangChain-powered research assistant chatbot, deployed on Streamlit <!-- TODO: add one line on what it does (documents, RAG, tools, memory) --> | **[Live app](https://researchassistent.streamlit.app/)** |
 | Multi-Agent Forex Decision-Support System <!-- TODO: add repo link --> | Four cooperating agents (DataAgent, TechnicalAgent, RiskAgent, DecisionAgent) that turn market data into a risk-aware decision | Walk-forward backtester · Streamlit dashboard · MT5 integration |
 | [FlyRank AI — Content Decline-Risk & Action Playbook](https://github.com/FawadAhmad-bilal/flyrank-assignment-1) <!-- TODO: add live paper link --> | Random Forest decline-risk score plus 4 K-Means content archetypes, turned into a prioritised action queue with review rules | Audited for split leakage: Random Forest precision@20 fell from **0.900 (random split)** to **0.550 (client-grouped split)** |
 | [Multi-Organ Diagnostic Suite](https://github.com/FawadAhmad-bilal/multi-organ-diagnostic-suit) | Five transfer-learning models in one Streamlit app | **[Live demo](https://multi-organ-diagnostic-suit.streamlit.app/)** |
@@ -30,6 +31,7 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 |---|---|---|---|
 | [PneumoScan](https://github.com/FawadAhmad-bilal/chest-xray-pneumonia-detection-cnn) | Chest X-ray pneumonia detection, custom 13-layer CNN, deployed on Streamlit | ~81.7% test accuracy | **[Open app](https://chest-x-ray-pneumonia-detector.streamlit.app/)** |
 | [Multi-Organ Diagnostic Suite](https://github.com/FawadAhmad-bilal/multi-organ-diagnostic-suit) | Unified diagnostic app — 5 transfer-learning models (chest X-ray via ResNet50, malaria via MobileNetV2, skin cancer via EfficientNet, brain tumor via VGG16, diabetic retinopathy via ResNet50) | 5 models, 1 app | **[Open app](https://multi-organ-diagnostic-suit.streamlit.app/)** |
+| [Research Assistant Chatbot](https://researchassistent.streamlit.app/) <!-- TODO: add repo link --> | LangChain research assistant chatbot, deployed on Streamlit | Built with LangChain | **[Open app](https://researchassistent.streamlit.app/)** |
 | [Breast Cancer Predictor](https://github.com/FawadAhmad-bilal/breast-cancer-prediction-web-app-using-machine-learning) | Deployed web app for breast cancer prediction | **~97% accuracy** | <!-- TODO: add live link --> |
 | [Heart Disease Predictor](https://github.com/FawadAhmad-bilal/heart-disease-predictor-adaboost) | AdaBoost classifier, deployed web app | **85** | <!-- TODO: add live link --> |
 | [Titanic Survival Predictor](https://github.com/FawadAhmad-bilal/titanic-survival-prediction-using-svm__streamlit) | SVM classifier, deployed web app | **82% accuracy** | <!-- TODO: add live link --> |
@@ -81,7 +83,7 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 
 ## Currently Learning
 - Transformers and attention (encoder/decoder, cross attention), then applied NLP with Hugging Face
-- Agentic AI: LangChain → LangGraph → MCP → AutoGen
+- Agentic AI: going deeper with LangChain, then LangGraph → MCP → AutoGen
 
 ---
 
@@ -92,6 +94,7 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
 ---
