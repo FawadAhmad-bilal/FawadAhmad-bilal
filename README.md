@@ -5,7 +5,8 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 ---
 
 ## What I Build
-- **Agentic AI Systems** — multi-agent pipelines with a clear separation between data, analysis, risk, and decision logic
+- **Agentic AI Systems** — multi-agent pipelines with a clear separation between data, analysis, risk, and decision logic, and tool-using ReAct agents that combine web search with live APIs
+- **RAG & LLM Applications** — retrieval pipelines with embeddings and vector stores, running on local open models
 - **Deep Learning & Computer Vision** — CNNs trained from scratch and transfer-learning models on real datasets (medical imaging, facial analysis)
 - **Honest ML Evaluation** — leakage-aware validation, grouped splits, and walk-forward backtesting instead of flattering random splits
 - **Deployed ML Applications** — models shipped as working apps, not left in Jupyter
@@ -17,6 +18,8 @@ BS Artificial Intelligence, University of Haripur (2024–2028) · Open to AI/ML
 
 | Project | What it does | Highlights |
 |---|---|---|
+| [Weather & Search AI Agent](https://github.com/FawadAhmad-bilal/weather-search-agent) | ReAct agent that combines live web search (DuckDuckGo) with real-time weather data (OpenWeatherMap) | Built twice: plain Python and LangChain · Recovers from tool errors by itself · Groq `gpt-oss-120b` |
+| YouTube Video Chat (RAG)[ <!-- TODO: add repo link -->] | Ask questions about a YouTube video: the transcript is split into chunks, embedded, stored in a FAISS vector store, and answered by a local open model (Qwen2.5-0.5B-Instruct) | **[Live app](https://rag-chatbot09.streamlit.app/)** <!-- TODO: add live link once deployed --> |
 | [Research Assistant Chatbot](https://researchassistent.streamlit.app/) <!-- TODO: add repo link --> | LangChain-powered research assistant chatbot, deployed on Streamlit <!-- TODO: add one line on what it does (documents, RAG, tools, memory) --> | **[Live app](https://researchassistent.streamlit.app/)** |
 | Multi-Agent Forex Decision-Support System <!-- TODO: add repo link --> | Four cooperating agents (DataAgent, TechnicalAgent, RiskAgent, DecisionAgent) that turn market data into a risk-aware decision | Walk-forward backtester · Streamlit dashboard · MT5 integration |
 | [FlyRank AI — Content Decline-Risk & Action Playbook](https://github.com/FawadAhmad-bilal/flyrank-assignment-1) <!-- TODO: add live paper link --> | Random Forest decline-risk score plus 4 K-Means content archetypes, turned into a prioritised action queue with review rules | Audited for split leakage: Random Forest precision@20 fell from **0.900 (random split)** to **0.550 (client-grouped split)** |
